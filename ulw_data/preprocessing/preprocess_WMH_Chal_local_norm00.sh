@@ -1,0 +1,1 @@
+python WMH_Chal_preprep_pipeline.py --dataset_path=/media/benp/NVMEspare/datasets/full_WMH_Chal_dataset --output_folder_root=/media/benp/NVMEspare/datasets/full_WMH_Chal_dataset
